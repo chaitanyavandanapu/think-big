@@ -53,221 +53,268 @@
             }
         ]
     },
+    "dresses": {
+        "category": "dresses",
+        "products": [
+            {
+                "id": 8,
+                "name": "Dresses 1",
+                "category": "dresses",
+                "subCategory": "General Collection",
+                "imageSrc": "/images/products/dresses/dresses-1.png"
+            },
+            {
+                "id": 9,
+                "name": "Dresses 2",
+                "category": "dresses",
+                "subCategory": "General Collection",
+                "imageSrc": "/images/products/dresses/dresses-2.png"
+            },
+            {
+                "id": 10,
+                "name": "Dresses 3",
+                "category": "dresses",
+                "subCategory": "General Collection",
+                "imageSrc": "/images/products/dresses/dresses-3.png"
+            },
+            {
+                "id": 11,
+                "name": "Dresses 4",
+                "category": "dresses",
+                "subCategory": "General Collection",
+                "imageSrc": "/images/products/dresses/dresses-4.png"
+            },
+            {
+                "id": 12,
+                "name": "Dresses 5",
+                "category": "dresses",
+                "subCategory": "General Collection",
+                "imageSrc": "/images/products/dresses/dresses-5.png"
+            },
+            {
+                "id": 13,
+                "name": "Dresses 6",
+                "category": "dresses",
+                "subCategory": "General Collection",
+                "imageSrc": "/images/products/dresses/dresses-6.png"
+            }
+        ]
+    },
     "jeans": {
         "category": "jeans",
         "products": [
             {
-                "id": 8,
+                "id": 14,
                 "name": "Jeans 1",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-1.jpeg"
             },
             {
-                "id": 9,
+                "id": 15,
                 "name": "Jeans 2",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-2.jpeg"
             },
             {
-                "id": 10,
+                "id": 16,
                 "name": "Jeans 3",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-3.jpeg"
             },
             {
-                "id": 11,
+                "id": 17,
                 "name": "Jeans 4",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-4.jpeg"
             },
             {
-                "id": 12,
+                "id": 18,
                 "name": "Jeans 5",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-5.jpeg"
             },
             {
-                "id": 13,
+                "id": 19,
                 "name": "Jeans 6",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-6.jpeg"
             },
             {
-                "id": 14,
+                "id": 20,
                 "name": "Jeans 7",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-7.jpeg"
             },
             {
-                "id": 15,
+                "id": 21,
                 "name": "Jeans 8",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-8.jpeg"
             },
             {
-                "id": 16,
+                "id": 22,
                 "name": "Jeans 9",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-9.jpeg"
             },
             {
-                "id": 17,
+                "id": 23,
                 "name": "Jeans 10",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-10.jpeg"
             },
             {
-                "id": 18,
+                "id": 24,
                 "name": "Jeans 11",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-11.jpeg"
             },
             {
-                "id": 19,
+                "id": 25,
                 "name": "Jeans 12",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-12.jpeg"
             },
             {
-                "id": 20,
+                "id": 26,
                 "name": "Jeans 13",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-13.jpeg"
             },
             {
-                "id": 21,
+                "id": 27,
                 "name": "Jeans 14",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-14.jpeg"
             },
             {
-                "id": 22,
+                "id": 28,
                 "name": "Jeans 15",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-15.jpeg"
             },
             {
-                "id": 23,
+                "id": 29,
                 "name": "Jeans 16",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-16.jpeg"
             },
             {
-                "id": 24,
+                "id": 30,
                 "name": "Jeans 17",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-17.jpeg"
             },
             {
-                "id": 25,
+                "id": 31,
                 "name": "Jeans 18",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-18.jpeg"
             },
             {
-                "id": 26,
+                "id": 32,
                 "name": "Jeans 19",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-19.jpeg"
             },
             {
-                "id": 27,
+                "id": 33,
                 "name": "Jeans 20",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-20.jpeg"
             },
             {
-                "id": 28,
+                "id": 34,
                 "name": "Jeans 21",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-21.jpeg"
             },
             {
-                "id": 29,
+                "id": 35,
                 "name": "Jeans 22",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-22.jpeg"
             },
             {
-                "id": 30,
+                "id": 36,
                 "name": "Jeans 23",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-23.jpeg"
             },
             {
-                "id": 31,
+                "id": 37,
                 "name": "Jeans 24",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-24.jpeg"
             },
             {
-                "id": 32,
+                "id": 38,
                 "name": "Jeans 25",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-25.jpeg"
             },
             {
-                "id": 33,
+                "id": 39,
                 "name": "Jeans 26",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-26.jpeg"
             },
             {
-                "id": 34,
+                "id": 40,
                 "name": "Jeans 27",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-27.jpeg"
             },
             {
-                "id": 35,
+                "id": 41,
                 "name": "Jeans 28",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-28.jpeg"
             },
             {
-                "id": 36,
+                "id": 42,
                 "name": "Jeans 29",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-29.jpeg"
             },
             {
-                "id": 37,
+                "id": 43,
                 "name": "Jeans 30",
                 "category": "jeans",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/jeans/jeans-30.jpeg"
             },
             {
-                "id": 38,
+                "id": 44,
                 "name": "Jeans 31",
                 "category": "jeans",
                 "subCategory": "General Collection",
@@ -279,84 +326,84 @@
         "category": "kids wear",
         "products": [
             {
-                "id": 39,
+                "id": 45,
                 "name": "Kids Wear 1",
                 "category": "kids wear",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/kids wear/kids wear-1.png"
             },
             {
-                "id": 40,
+                "id": 46,
                 "name": "Kids Wear 2",
                 "category": "kids wear",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/kids wear/kids wear-2.png"
             },
             {
-                "id": 41,
+                "id": 47,
                 "name": "Kids Wear 3",
                 "category": "kids wear",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/kids wear/kids wear-3.png"
             },
             {
-                "id": 42,
+                "id": 48,
                 "name": "Kids Wear 4",
                 "category": "kids wear",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/kids wear/kids wear-4.png"
             },
             {
-                "id": 43,
+                "id": 49,
                 "name": "Kids Wear 5",
                 "category": "kids wear",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/kids wear/kids wear-5.png"
             },
             {
-                "id": 44,
+                "id": 50,
                 "name": "Kids Wear 6",
                 "category": "kids wear",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/kids wear/kids wear-6.png"
             },
             {
-                "id": 45,
+                "id": 51,
                 "name": "Kids Wear 7",
                 "category": "kids wear",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/kids wear/kids wear-7.png"
             },
             {
-                "id": 46,
+                "id": 52,
                 "name": "Kids Wear 8",
                 "category": "kids wear",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/kids wear/kids wear-8.png"
             },
             {
-                "id": 47,
+                "id": 53,
                 "name": "Kids Wear 9",
                 "category": "kids wear",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/kids wear/kids wear-9.png"
             },
             {
-                "id": 48,
+                "id": 54,
                 "name": "Kids Wear 10",
                 "category": "kids wear",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/kids wear/kids wear-10.png"
             },
             {
-                "id": 49,
+                "id": 55,
                 "name": "Kids Wear 11",
                 "category": "kids wear",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/kids wear/kids wear-11.png"
             },
             {
-                "id": 50,
+                "id": 56,
                 "name": "Kids Wear 12",
                 "category": "kids wear",
                 "subCategory": "General Collection",
@@ -368,28 +415,28 @@
         "category": "kurthas",
         "products": [
             {
-                "id": 51,
+                "id": 57,
                 "name": "Kurthas 1",
                 "category": "kurthas",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/kurthas/kurthas-1.jpg"
             },
             {
-                "id": 52,
+                "id": 58,
                 "name": "Kurthas 2",
                 "category": "kurthas",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/kurthas/kurthas-2.png"
             },
             {
-                "id": 53,
+                "id": 59,
                 "name": "Kurthas 3",
                 "category": "kurthas",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/kurthas/kurthas-3.png"
             },
             {
-                "id": 54,
+                "id": 60,
                 "name": "Kurthas 4",
                 "category": "kurthas",
                 "subCategory": "General Collection",
@@ -401,14 +448,14 @@
         "category": "night wear",
         "products": [
             {
-                "id": 55,
+                "id": 61,
                 "name": "Night Wear 1",
                 "category": "night wear",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/night wear/night wear-1.png"
             },
             {
-                "id": 56,
+                "id": 62,
                 "name": "Night Wear 2",
                 "category": "night wear",
                 "subCategory": "General Collection",
@@ -416,163 +463,109 @@
             }
         ]
     },
-    "nightdress": {
-        "category": "nightdress",
-        "products": [
-            {
-                "id": 57,
-                "name": "Nightdress 1",
-                "category": "nightdress",
-                "subCategory": "General Collection",
-                "imageSrc": "/images/products/nightdress/nightdress-1.jpg"
-            },
-            {
-                "id": 58,
-                "name": "Nightdress 2",
-                "category": "nightdress",
-                "subCategory": "General Collection",
-                "imageSrc": "/images/products/nightdress/nightdress-2.jpg"
-            },
-            {
-                "id": 59,
-                "name": "Nightdress 3",
-                "category": "nightdress",
-                "subCategory": "General Collection",
-                "imageSrc": "/images/products/nightdress/nightdress-3.jpg"
-            },
-            {
-                "id": 60,
-                "name": "Nightdress 4",
-                "category": "nightdress",
-                "subCategory": "General Collection",
-                "imageSrc": "/images/products/nightdress/nightdress-4.jpg"
-            },
-            {
-                "id": 61,
-                "name": "Nightdress 5",
-                "category": "nightdress",
-                "subCategory": "General Collection",
-                "imageSrc": "/images/products/nightdress/nightdress-5.jpg"
-            },
-            {
-                "id": 62,
-                "name": "Nightdress 6",
-                "category": "nightdress",
-                "subCategory": "General Collection",
-                "imageSrc": "/images/products/nightdress/nightdress-6.jpg"
-            },
-            {
-                "id": 63,
-                "name": "Nightdress 7",
-                "category": "nightdress",
-                "subCategory": "General Collection",
-                "imageSrc": "/images/products/nightdress/nightdress-7.jpg"
-            }
-        ]
-    },
     "sarees": {
         "category": "sarees",
         "products": [
             {
-                "id": 64,
+                "id": 63,
                 "name": "Sarees 1",
                 "category": "sarees",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/sarees/sarees-1.jpg"
             },
             {
-                "id": 65,
+                "id": 64,
                 "name": "Sarees 2",
                 "category": "sarees",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/sarees/sarees-2.jpg"
+                "imageSrc": "/images/products/sarees/sarees-2.png"
             },
             {
-                "id": 66,
+                "id": 65,
                 "name": "Sarees 3",
                 "category": "sarees",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/sarees/sarees-3.jpg"
             },
             {
-                "id": 67,
+                "id": 66,
                 "name": "Sarees 4",
                 "category": "sarees",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/sarees/sarees-4.jpg"
             },
             {
-                "id": 68,
+                "id": 67,
                 "name": "Sarees 5",
                 "category": "sarees",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/sarees/sarees-5.jpg"
+                "imageSrc": "/images/products/sarees/sarees-5.png"
             },
             {
-                "id": 69,
+                "id": 68,
                 "name": "Sarees 6",
                 "category": "sarees",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/sarees/sarees-6.jpg"
+                "imageSrc": "/images/products/sarees/sarees-6.png"
             },
             {
-                "id": 70,
+                "id": 69,
                 "name": "Sarees 7",
                 "category": "sarees",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/sarees/sarees-7.jpg"
+                "imageSrc": "/images/products/sarees/sarees-7.png"
             },
             {
-                "id": 71,
+                "id": 70,
                 "name": "Sarees 8",
                 "category": "sarees",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/sarees/sarees-8.jpg"
             },
             {
-                "id": 72,
+                "id": 71,
                 "name": "Sarees 9",
                 "category": "sarees",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/sarees/sarees-9.png"
+                "imageSrc": "/images/products/sarees/sarees-9.jpg"
             },
             {
-                "id": 73,
+                "id": 72,
                 "name": "Sarees 10",
                 "category": "sarees",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/sarees/sarees-10.jpg"
             },
             {
-                "id": 74,
+                "id": 73,
                 "name": "Sarees 11",
                 "category": "sarees",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/sarees/sarees-11.png"
+                "imageSrc": "/images/products/sarees/sarees-11.jpg"
             },
             {
-                "id": 75,
+                "id": 74,
                 "name": "Sarees 12",
                 "category": "sarees",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/sarees/sarees-12.png"
+                "imageSrc": "/images/products/sarees/sarees-12.jpg"
             },
             {
-                "id": 76,
+                "id": 75,
                 "name": "Sarees 13",
                 "category": "sarees",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/sarees/sarees-13.png"
+                "imageSrc": "/images/products/sarees/sarees-13.jpg"
             },
             {
-                "id": 77,
+                "id": 76,
                 "name": "Sarees 14",
                 "category": "sarees",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/sarees/sarees-14.jpg"
             },
             {
-                "id": 78,
+                "id": 77,
                 "name": "Sarees 15",
                 "category": "sarees",
                 "subCategory": "General Collection",
@@ -584,247 +577,247 @@
         "category": "shirts",
         "products": [
             {
-                "id": 79,
+                "id": 78,
                 "name": "Shirts 1",
                 "category": "shirts",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/shirts/shirts-1.png"
             },
             {
-                "id": 80,
+                "id": 79,
                 "name": "Shirts 2",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-2.png"
+                "imageSrc": "/images/products/shirts/shirts-2.jpeg"
             },
             {
-                "id": 81,
+                "id": 80,
                 "name": "Shirts 3",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-3.jpeg"
+                "imageSrc": "/images/products/shirts/shirts-3.png"
             },
             {
-                "id": 82,
+                "id": 81,
                 "name": "Shirts 4",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-4.jpeg"
+                "imageSrc": "/images/products/shirts/shirts-4.png"
             },
             {
-                "id": 83,
+                "id": 82,
                 "name": "Shirts 5",
                 "category": "shirts",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/shirts/shirts-5.png"
             },
             {
-                "id": 84,
+                "id": 83,
                 "name": "Shirts 6",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-6.jpg"
+                "imageSrc": "/images/products/shirts/shirts-6.png"
             },
             {
-                "id": 85,
+                "id": 84,
                 "name": "Shirts 7",
                 "category": "shirts",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/shirts/shirts-7.png"
             },
             {
-                "id": 86,
+                "id": 85,
                 "name": "Shirts 8",
                 "category": "shirts",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/shirts/shirts-8.png"
             },
             {
-                "id": 87,
+                "id": 86,
                 "name": "Shirts 9",
                 "category": "shirts",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/shirts/shirts-9.png"
             },
             {
-                "id": 88,
+                "id": 87,
                 "name": "Shirts 10",
                 "category": "shirts",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/shirts/shirts-10.png"
             },
             {
-                "id": 89,
+                "id": 88,
                 "name": "Shirts 11",
                 "category": "shirts",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/shirts/shirts-11.png"
             },
             {
-                "id": 90,
+                "id": 89,
                 "name": "Shirts 12",
                 "category": "shirts",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/shirts/shirts-12.png"
             },
             {
-                "id": 91,
+                "id": 90,
                 "name": "Shirts 13",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-13.png"
+                "imageSrc": "/images/products/shirts/shirts-13.jpeg"
             },
             {
-                "id": 92,
+                "id": 91,
                 "name": "Shirts 14",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-14.png"
+                "imageSrc": "/images/products/shirts/shirts-14.jpeg"
             },
             {
-                "id": 93,
+                "id": 92,
                 "name": "Shirts 15",
                 "category": "shirts",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/shirts/shirts-15.png"
             },
             {
-                "id": 94,
+                "id": 93,
                 "name": "Shirts 16",
                 "category": "shirts",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/shirts/shirts-16.png"
             },
             {
-                "id": 95,
+                "id": 94,
                 "name": "Shirts 17",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-17.png"
+                "imageSrc": "/images/products/shirts/shirts-17.jpeg"
             },
             {
-                "id": 96,
+                "id": 95,
                 "name": "Shirts 18",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-18.jpeg"
+                "imageSrc": "/images/products/shirts/shirts-18.png"
             },
             {
-                "id": 97,
+                "id": 96,
                 "name": "Shirts 19",
                 "category": "shirts",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/shirts/shirts-19.png"
             },
             {
-                "id": 98,
+                "id": 97,
                 "name": "Shirts 20",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-20.jpeg"
+                "imageSrc": "/images/products/shirts/shirts-20.png"
             },
             {
-                "id": 99,
+                "id": 98,
                 "name": "Shirts 21",
                 "category": "shirts",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/shirts/shirts-21.png"
             },
             {
-                "id": 100,
+                "id": 99,
                 "name": "Shirts 22",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-22.png"
+                "imageSrc": "/images/products/shirts/shirts-22.jpeg"
             },
             {
-                "id": 101,
+                "id": 100,
                 "name": "Shirts 23",
                 "category": "shirts",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/shirts/shirts-23.png"
             },
             {
-                "id": 102,
+                "id": 101,
                 "name": "Shirts 24",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-24.png"
+                "imageSrc": "/images/products/shirts/shirts-24.jpeg"
             },
             {
-                "id": 103,
+                "id": 102,
                 "name": "Shirts 25",
                 "category": "shirts",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/shirts/shirts-25.jpeg"
             },
             {
-                "id": 104,
+                "id": 103,
                 "name": "Shirts 26",
                 "category": "shirts",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/shirts/shirts-26.jpeg"
             },
             {
-                "id": 105,
+                "id": 104,
                 "name": "Shirts 27",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-27.jpeg"
+                "imageSrc": "/images/products/shirts/shirts-27.png"
             },
             {
-                "id": 106,
+                "id": 105,
                 "name": "Shirts 28",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-28.jpeg"
+                "imageSrc": "/images/products/shirts/shirts-28.jpg"
             }
         ]
     },
-    "T-shirts": {
-        "category": "T-shirts",
+    "t-shirts": {
+        "category": "t-shirts",
         "products": [
             {
-                "id": 107,
+                "id": 106,
                 "name": "T Shirts 1",
-                "category": "T-shirts",
+                "category": "t-shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/T-shirts/T-shirts-1.png"
+                "imageSrc": "/images/products/t-shirts/t-shirts-1.png"
+            },
+            {
+                "id": 107,
+                "name": "T Shirts 2",
+                "category": "t-shirts",
+                "subCategory": "General Collection",
+                "imageSrc": "/images/products/t-shirts/t-shirts-2.png"
             },
             {
                 "id": 108,
-                "name": "T Shirts 2",
-                "category": "T-shirts",
+                "name": "T Shirts 3",
+                "category": "t-shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/T-shirts/T-shirts-2.png"
+                "imageSrc": "/images/products/t-shirts/t-shirts-3.png"
             },
             {
                 "id": 109,
-                "name": "T Shirts 3",
-                "category": "T-shirts",
+                "name": "T Shirts 4",
+                "category": "t-shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/T-shirts/T-shirts-3.png"
+                "imageSrc": "/images/products/t-shirts/t-shirts-4.png"
             },
             {
                 "id": 110,
-                "name": "T Shirts 4",
-                "category": "T-shirts",
+                "name": "T Shirts 5",
+                "category": "t-shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/T-shirts/T-shirts-4.png"
+                "imageSrc": "/images/products/t-shirts/t-shirts-5.png"
             },
             {
                 "id": 111,
-                "name": "T Shirts 5",
-                "category": "T-shirts",
-                "subCategory": "General Collection",
-                "imageSrc": "/images/products/T-shirts/T-shirts-5.png"
-            },
-            {
-                "id": 112,
                 "name": "T Shirts 6",
-                "category": "T-shirts",
+                "category": "t-shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/T-shirts/T-shirts-6.png"
+                "imageSrc": "/images/products/t-shirts/t-shirts-6.png"
             }
         ]
     },
@@ -832,63 +825,63 @@
         "category": "tops",
         "products": [
             {
-                "id": 113,
+                "id": 112,
                 "name": "Tops 1",
                 "category": "tops",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/tops/tops-1.png"
             },
             {
-                "id": 114,
+                "id": 113,
                 "name": "Tops 2",
                 "category": "tops",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/tops/tops-2.png"
             },
             {
-                "id": 115,
+                "id": 114,
                 "name": "Tops 3",
                 "category": "tops",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/tops/tops-3.png"
             },
             {
-                "id": 116,
+                "id": 115,
                 "name": "Tops 4",
                 "category": "tops",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/tops/tops-4.png"
             },
             {
-                "id": 117,
+                "id": 116,
                 "name": "Tops 5",
                 "category": "tops",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/tops/tops-5.png"
             },
             {
-                "id": 118,
+                "id": 117,
                 "name": "Tops 6",
                 "category": "tops",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/tops/tops-6.png"
             },
             {
-                "id": 119,
+                "id": 118,
                 "name": "Tops 7",
                 "category": "tops",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/tops/tops-7.jpg"
             },
             {
-                "id": 120,
+                "id": 119,
                 "name": "Tops 8",
                 "category": "tops",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/tops/tops-8.png"
             },
             {
-                "id": 121,
+                "id": 120,
                 "name": "Tops 9",
                 "category": "tops",
                 "subCategory": "General Collection",
@@ -900,21 +893,21 @@
         "category": "tracks",
         "products": [
             {
-                "id": 122,
+                "id": 121,
                 "name": "Tracks 1",
                 "category": "tracks",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/tracks/tracks-1.png"
             },
             {
-                "id": 123,
+                "id": 122,
                 "name": "Tracks 2",
                 "category": "tracks",
                 "subCategory": "General Collection",
                 "imageSrc": "/images/products/tracks/tracks-2.png"
             },
             {
-                "id": 124,
+                "id": 123,
                 "name": "Tracks 3",
                 "category": "tracks",
                 "subCategory": "General Collection",

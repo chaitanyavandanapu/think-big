@@ -478,21 +478,21 @@
                 "name": "Sarees 2",
                 "category": "sarees",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/sarees/sarees-2.png"
+                "imageSrc": "/images/products/sarees/sarees-2.jpg"
             },
             {
                 "id": 65,
                 "name": "Sarees 3",
                 "category": "sarees",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/sarees/sarees-3.jpg"
+                "imageSrc": "/images/products/sarees/sarees-3.png"
             },
             {
                 "id": 66,
                 "name": "Sarees 4",
                 "category": "sarees",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/sarees/sarees-4.jpg"
+                "imageSrc": "/images/products/sarees/sarees-4.png"
             },
             {
                 "id": 67,
@@ -506,14 +506,14 @@
                 "name": "Sarees 6",
                 "category": "sarees",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/sarees/sarees-6.png"
+                "imageSrc": "/images/products/sarees/sarees-6.jpg"
             },
             {
                 "id": 69,
                 "name": "Sarees 7",
                 "category": "sarees",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/sarees/sarees-7.png"
+                "imageSrc": "/images/products/sarees/sarees-7.jpg"
             },
             {
                 "id": 70,
@@ -555,7 +555,7 @@
                 "name": "Sarees 13",
                 "category": "sarees",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/sarees/sarees-13.jpg"
+                "imageSrc": "/images/products/sarees/sarees-13.png"
             },
             {
                 "id": 76,
@@ -588,7 +588,7 @@
                 "name": "Shirts 2",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-2.jpeg"
+                "imageSrc": "/images/products/shirts/shirts-2.png"
             },
             {
                 "id": 80,
@@ -602,7 +602,7 @@
                 "name": "Shirts 4",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-4.png"
+                "imageSrc": "/images/products/shirts/shirts-4.jpeg"
             },
             {
                 "id": 82,
@@ -623,7 +623,7 @@
                 "name": "Shirts 7",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-7.png"
+                "imageSrc": "/images/products/shirts/shirts-7.jpeg"
             },
             {
                 "id": 85,
@@ -637,21 +637,21 @@
                 "name": "Shirts 9",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-9.png"
+                "imageSrc": "/images/products/shirts/shirts-9.jpeg"
             },
             {
                 "id": 87,
                 "name": "Shirts 10",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-10.png"
+                "imageSrc": "/images/products/shirts/shirts-10.jpeg"
             },
             {
                 "id": 88,
                 "name": "Shirts 11",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-11.png"
+                "imageSrc": "/images/products/shirts/shirts-11.jpeg"
             },
             {
                 "id": 89,
@@ -665,14 +665,14 @@
                 "name": "Shirts 13",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-13.jpeg"
+                "imageSrc": "/images/products/shirts/shirts-13.png"
             },
             {
                 "id": 91,
                 "name": "Shirts 14",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-14.jpeg"
+                "imageSrc": "/images/products/shirts/shirts-14.jpg"
             },
             {
                 "id": 92,
@@ -693,7 +693,7 @@
                 "name": "Shirts 17",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-17.jpeg"
+                "imageSrc": "/images/products/shirts/shirts-17.png"
             },
             {
                 "id": 95,
@@ -728,14 +728,14 @@
                 "name": "Shirts 22",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-22.jpeg"
+                "imageSrc": "/images/products/shirts/shirts-22.png"
             },
             {
                 "id": 100,
                 "name": "Shirts 23",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-23.png"
+                "imageSrc": "/images/products/shirts/shirts-23.jpeg"
             },
             {
                 "id": 101,
@@ -749,28 +749,28 @@
                 "name": "Shirts 25",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-25.jpeg"
+                "imageSrc": "/images/products/shirts/shirts-25.png"
             },
             {
                 "id": 103,
                 "name": "Shirts 26",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-26.jpeg"
+                "imageSrc": "/images/products/shirts/shirts-26.png"
             },
             {
                 "id": 104,
                 "name": "Shirts 27",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-27.png"
+                "imageSrc": "/images/products/shirts/shirts-27.jpeg"
             },
             {
                 "id": 105,
                 "name": "Shirts 28",
                 "category": "shirts",
                 "subCategory": "General Collection",
-                "imageSrc": "/images/products/shirts/shirts-28.jpg"
+                "imageSrc": "/images/products/shirts/shirts-28.png"
             }
         ]
     },

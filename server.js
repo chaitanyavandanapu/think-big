@@ -13,6 +13,7 @@ const productsDataPath = path.join(__dirname, 'data', 'products.json');
 let allProducts = {};
 
 try {
+  
   allProducts = JSON.parse(fs.readFileSync(productsDataPath, 'utf8'));
 } catch (err) {
   console.error('Error reading products data:', err);
@@ -38,7 +39,7 @@ app.get('/category/:id', (req, res) => {
 
 const productCards = categoryData.products.map(product => `
   <div class="product-card">
-    <a href="/product/${product.id}">
+    <a href="#" id="image-${product.id}">
       <div class="image-container">
         <img src="${product.imageSrc}" alt="${product.name}" />
       </div>

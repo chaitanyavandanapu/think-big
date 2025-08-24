@@ -304,7 +304,7 @@
         // Function to open the modal with the clicked image
         function openImageModal(imageSrc) {
           modal.style.display = "block";
-          modalImage.src = `/public/${imageSrc}`;
+          modalImage.src = `${imageSrc}`;
         }
 
         async function fetchCategoryData() {
@@ -338,7 +338,7 @@
                 <div class="product-card">
                   <a href="#">
                     <div class="image-container">
-                      <img src="/public/${product.imageSrc}" alt="${product.name}" />
+                      <img src="${product.imageSrc}" alt="${product.name}" />
                     </div>
                     <div class="product-info">
                       <div class="product-name">${product.name}</div>

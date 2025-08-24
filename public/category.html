@@ -267,7 +267,7 @@
           <h1>Category Collection</h1>
           <p>Discover our premium clothing range</p>
         </div>
-        <a href="/" class="home-btn" title="Return to Home" aria-label="Home">
+        <a href="./index.html" class="home-btn" title="Return to Home" aria-label="Home">
           <svg
             viewBox="0 0 24 24"
             class="home-icon"
@@ -280,38 +280,91 @@
     </div>
 
     <!-- Gallery Section -->
-    <div class="gallery">{{PRODUCT_CARDS}}</div>
+    <div class="gallery" id="category-gallery">
+      <!-- Product cards will be dynamically inserted here -->
+    </div>
+
     <!-- Modal for Image Pop-up -->
     <div id="image-modal" class="image-modal">
       <span id="close-modal" class="close">&times;</span>
       <img class="modal-content" id="modal-image" />
     </div>
-  </body>
-  <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      const modal = document.getElementById("image-modal");
-      const modalImage = document.getElementById("modal-image");
-      const closeModal = document.getElementById("close-modal");
-      const productLinks = document.querySelectorAll(".product-card a");
 
-      productLinks.forEach((link) => {
-        link.addEventListener("click", function (e) {
-          e.preventDefault();
-          const image = link.querySelector("img");
-          modal.style.display = "block";
-          modalImage.src = image.src;
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const modal = document.getElementById("image-modal");
+        const modalImage = document.getElementById("modal-image");
+        const closeModal = document.getElementById("close-modal");
+
+        async function fetchCategoryData() {
+          // Get the category from the URL query string
+          const urlParams = new URLSearchParams(window.location.search);
+          const category = urlParams.get('category'); // Get category from URL like /category.html?category=sarees
+
+          const githubUrl = 'https://raw.githubusercontent.com/chaitanyavandanapu/think-big/main/data/products.json';
+
+          try {
+            const response = await fetch(githubUrl);
+            if (!response.ok) {
+              throw new Error('Error fetching data from GitHub');
+            }
+
+            const data = await response.json();
+            const categoryData = data[category];
+
+            if (!categoryData) {
+              document.getElementById('category-gallery').innerHTML = `<p>Category not found.</p>`;
+              return;
+            }
+
+            // Render the products for the selected category
+            const productCards = categoryData.products.map(product => {
+              return `
+                <div class="product-card">
+                  <a href="#">
+                    <div class="image-container">
+                      <img src="${product.imageSrc}" alt="${product.name}" />
+                    </div>
+                    <div class="product-info">
+                      <div class="product-name">${product.name}</div>
+                      <div class="product-category">${product.subCategory}</div>
+                    </div>
+                  </a>
+                </div>
+              `;
+            }).join('');
+
+            document.getElementById('category-gallery').innerHTML = productCards;
+
+            // Add event listeners for the modal
+            const productLinks = document.querySelectorAll(".product-card a");
+            productLinks.forEach((link) => {
+              link.addEventListener("click", function (e) {
+                e.preventDefault();
+                const image = link.querySelector("img");
+                modal.style.display = "block";
+                modalImage.src = image.src;
+              });
+            });
+          } catch (err) {
+            console.error(err);
+            document.getElementById('category-gallery').innerHTML = `<p>Error loading category data</p>`;
+          }
+        }
+
+        fetchCategoryData();
+
+        // Close modal functionality
+        closeModal.addEventListener("click", function () {
+          modal.style.display = "none";
+        });
+
+        window.addEventListener("click", function (event) {
+          if (event.target === modal) {
+            modal.style.display = "none";
+          }
         });
       });
-
-      closeModal.addEventListener("click", function () {
-        modal.style.display = "none";
-      });
-
-      window.addEventListener("click", function (event) {
-        if (event.target === modal) {
-          modal.style.display = "none";
-        }
-      });
-    });
-  </script>
+    </script>
+  </body>
 </html>

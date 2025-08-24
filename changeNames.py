@@ -2,7 +2,7 @@ import os
 import json
 
 PRODUCTS_ROOT_FOLDER = os.path.join("public", "images", "products")
-WEB_PATH_PREFIX = "/images/products"
+WEB_PATH_PREFIX = "public/images/products"
 OUTPUT_JSON_FILE = os.path.join("data", "products.json")
 
 def generate_product_catalog():

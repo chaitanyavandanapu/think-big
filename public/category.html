@@ -301,7 +301,7 @@
           const urlParams = new URLSearchParams(window.location.search);
           const category = urlParams.get('category'); // Get category from URL like /category.html?category=sarees
 
-          const githubUrl = 'https://raw.githubusercontent.com/chaitanyavandanapu/think-big/main/data/products.json';
+          const githubUrl = 'https://raw.githubusercontent.com/chaitanyavandanapu/think-big/main/data/products.json?v=2';
 
           try {
             const response = await fetch(githubUrl);

@@ -1,0 +1,28 @@
+name: Auto Update Catalog
+
+on:
+  push:
+    paths:
+      - "images/**"   # run only when images folder changes
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Run changeNames.py
+        run: python changeNames.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add .
+          git commit -m "Auto: updated product catalog" || echo "No changes"
+          git push

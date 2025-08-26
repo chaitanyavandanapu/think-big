@@ -3,13 +3,18 @@ name: Auto Update Catalog
 on:
   push:
     paths:
-      - "images/**"   # run only when images folder changes
+      - "images/**"
+
+permissions:
+  contents: write   # 👈 allow workflow to push commits
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}   # 👈 use GitHub’s built-in token
 
       - name: Set up Python
         uses: actions/setup-python@v4
